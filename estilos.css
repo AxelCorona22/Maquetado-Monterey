@@ -1,0 +1,66 @@
+.fondo1{
+  background-image: url("imagenes/casa1.jpg");
+  background-size: 100%;
+  background-repeat:no-repeat;
+  height: 600px;
+
+}
+
+.ficha1{
+  background: white;
+  padding: 20px;
+  margin: 30px;
+  margin-top: 150px;
+  border-radius: 10px;
+}
+
+.carta{
+  margin-left: 65%;
+}
+
+.fondo2{
+  background-image: url("imagenes/casa4.jpg");
+  background-size: 100%;
+  background-repeat:no-repeat;
+  height: 600px;
+}
+
+.transbox {
+  background-color: black;
+  opacity: 0.6;
+  width: 100%;
+  height: 600px;
+}
+
+.texto3 {
+  margin-top: 70px;
+  margin-left: 100px;
+}
+
+.ficha{
+    padding: 70px;
+}
+
+.boton2{
+  margin-top: 100px;
+}
+.fotos {
+  margin-top: 30px;
+}
+
+.carrusel {
+  height: 600px;
+  width: 100%;
+
+}
+
+#footer {
+  background-color: black;
+  padding: 50px;
+  color: white;
+}
+
+
+.logoFooter {
+  width: 170px;
+}
